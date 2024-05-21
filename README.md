@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>🌴 AyurPulse 🌴</h1>
+  <h1>⚕️ AyurPulse ⚕️</h1>
   <p>A Tool for Disease Prediction & solutions </p>
  <!-- Badges -->
   <p>
