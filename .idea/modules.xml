@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ayurvedic_Treatment.iml" filepath="$PROJECT_DIR$/.idea/modules/Ayurvedic_Treatment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ayurvedic_Treatment.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.iml" filepath="$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/circleimageview/Ayurvedic_Treatment.circleimageview.unitTest.iml" />
+    </modules>
+  </component>
+</project>
