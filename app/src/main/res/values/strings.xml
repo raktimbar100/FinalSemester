@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayurvedic Treatment</string>
+    <string name="action_settings">Settings</string>
+    <string name="bio1">Android Developer proficient in AR and AI development. Crafting creative solutions by integrating diverse technologies effectively.</string>
+    <string name="bio2">Passionate engineer exploring algorithms, coding, and tech possibilities. Proficient in Java, DBMS, Cloud Computing.</string>
+    <string name="bio3">B.Tech CSE student at Academy of Tech, passionate about Python, DBMS, and programming. Skilled in Front-End Development.</string>
+    <string name="bio4">Passionate CSE engineer skilled in Web Development, Java, Python, and C++, adept at problem-solving and software development.</string>
+    <string name="bio5">Backend developer proficient in Java, Python, PostgreSQL, FastAPI, and Automation, passionate about innovative solutions.</string>
+</resources>

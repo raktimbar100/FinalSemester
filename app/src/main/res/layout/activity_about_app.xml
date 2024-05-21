@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        style="@style/custom_AppTheme.Toolbar">
+
+        <TextView
+            android:id="@+id/txtToolbarTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            style="@style/TextAppearance.Widget.Event.Toolbar.Title"
+            android:textSize="20sp"
+            android:visibility="gone"
+            android:text="Contact List"
+            android:textColor="#FFFFFF" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#CDFAC8"
+        android:padding="24dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtAppName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:gravity="center_horizontal"
+                android:textSize="48sp"
+                android:textColor="#054F18"
+                android:text="AyurPulse"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                />
+
+            <TextView
+                android:id="@+id/txtAppDesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textColor="@color/colorBlack"
+                android:textSize="28sp"
+                android:text="AyurPulse is an innovative Android app that harnesses the power of Ayurveda and machine learning to guide you on your wellness journey. It provides personalized recommendations for diet, natural remedies, and lifestyle changes, all based on your unique needs."
+                android:fontFamily="cursive"
+                android:textStyle="bold"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
