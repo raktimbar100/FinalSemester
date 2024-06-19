@@ -70,8 +70,8 @@
                         android:layout_marginLeft="16dp"
                         android:text="Debarghya Chakravarty"
                         android:textStyle="bold"
-                        android:textSize="18sp"
-                        android:paddingTop="10dp"
+                        android:textSize="21sp"
+                        android:paddingTop="6dp"
                         android:layout_alignParentStart="true"
                         android:layout_marginStart="16dp"
                         android:textColor="#000" />
@@ -88,8 +88,7 @@
                         android:textSize="14sp"
                         android:layout_marginTop="8dp"
                         android:layout_alignParentStart="true"
-                        android:fontFamily="cursive"
-                        android:textStyle="bold"
+
                         android:textColor="#000"
                         android:layout_marginRight="76dp"
                         android:layout_marginEnd="76dp"/>
@@ -135,8 +134,8 @@
                         android:layout_marginLeft="16dp"
                         android:text="Raktim Bar"
                         android:textStyle="bold"
-                        android:textSize="18sp"
-                        android:paddingTop="10dp"
+                        android:textSize="22sp"
+                        android:paddingTop="6dp"
                         android:layout_alignParentStart="true"
                         android:layout_marginStart="16dp"
                         android:textColor="#000" />
@@ -153,8 +152,6 @@
                         android:textSize="14sp"
                         android:layout_marginTop="8dp"
                         android:layout_alignParentStart="true"
-                        android:fontFamily="cursive"
-                        android:textStyle="bold"
                         android:textColor="#000"
                         android:layout_marginRight="76dp"
                         android:layout_marginEnd="76dp"/>
@@ -199,8 +196,8 @@
                         android:layout_marginLeft="16dp"
                         android:text="Supriyo Bose"
                         android:textStyle="bold"
-                        android:textSize="18sp"
-                        android:paddingTop="10dp"
+                        android:textSize="22sp"
+                        android:paddingTop="6dp"
                         android:layout_alignParentStart="true"
                         android:layout_marginStart="16dp"
                         android:textColor="#000" />
@@ -217,8 +214,6 @@
                         android:textSize="14sp"
                         android:layout_marginTop="8dp"
                         android:layout_alignParentStart="true"
-                        android:fontFamily="cursive"
-                        android:textStyle="bold"
                         android:textColor="#000"
                         android:layout_marginRight="76dp"
                         android:layout_marginEnd="76dp"/>
@@ -263,8 +258,8 @@
                         android:layout_marginLeft="16dp"
                         android:text="Swathik Majumder"
                         android:textStyle="bold"
-                        android:textSize="18sp"
-                        android:paddingTop="10dp"
+                        android:textSize="22sp"
+                        android:paddingTop="6dp"
                         android:layout_alignParentStart="true"
                         android:layout_marginStart="16dp"
                         android:textColor="#000" />
@@ -281,8 +276,6 @@
                         android:textSize="14sp"
                         android:layout_marginTop="8dp"
                         android:layout_alignParentStart="true"
-                        android:fontFamily="cursive"
-                        android:textStyle="bold"
                         android:textColor="#000"
                         android:layout_marginRight="76dp"
                         android:layout_marginEnd="76dp"/>
@@ -327,8 +320,8 @@
                         android:layout_marginLeft="16dp"
                         android:text="Tunir Chakraborty"
                         android:textStyle="bold"
-                        android:textSize="18sp"
-                        android:paddingTop="10dp"
+                        android:textSize="22sp"
+                        android:paddingTop="6dp"
                         android:layout_alignParentStart="true"
                         android:layout_marginStart="16dp"
                         android:textColor="#000" />
@@ -345,8 +338,6 @@
                         android:textSize="14sp"
                         android:layout_marginTop="8dp"
                         android:layout_alignParentStart="true"
-                        android:fontFamily="cursive"
-                        android:textStyle="bold"
                         android:textColor="#000"
                         android:layout_marginRight="76dp"
                         android:layout_marginEnd="76dp"/>
